@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jokhioyousif" alt="jokhioyousif" /></a> </p>
 
-- 🔭 I’m currently working on **GenAI Projects**
+- 🔭 I’m currently working on ** ML DL and Generative AI**
 
 - 🌱 I’m currently learning **Generative AI, Agentic AI**
 
